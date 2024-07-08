@@ -1,0 +1,1 @@
+const A = "Perubahan ke 1";
